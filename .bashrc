@@ -1,7 +1,7 @@
-###################################################
-# My custom ~/.bashrc file.						  #
-# You can add these commands anywhere in your own #
-###################################################
+##################################################
+# My custom ~/.bashrc file.
+# You can add these commands anywhere in your own
+##################################################
 
 # force color prompt for tmux shells
 force_color_prompt=yes
@@ -22,4 +22,3 @@ alias chrome="/mnt/c/Program\ Files\/Google/Chrome/Application/chrome.exe"
 
 # my default editor
 export EDITOR='vim'
-
