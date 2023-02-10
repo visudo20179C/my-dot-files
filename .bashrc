@@ -6,6 +6,9 @@
 # force color prompt for tmux shells
 force_color_prompt=yes
 
+# color prompt
+PS1='\[\033[1;36m\]\u\[\033[1;31m\]@\[\033[1;32m\]\h:\[\033[1;35m\]\w\[\033[1;31m\]\$\[\033[0m\] '
+
 # some more ls aliases, these should already be there
 alias ll='ls -alF'
 alias la='ls -A'
